@@ -1,7 +1,8 @@
-import math
 import pytest
-from Circle import Circle
+import math
 
+
+from OTUS1.pythonProject3.src.Circle import Circle
 
 def test_Circle_init():
     c = Circle(5)
@@ -19,3 +20,4 @@ def test_Circle_calculate_area():
 def test_Circle_calculate_perimeter():
     c = Circle(8)
     assert math.isclose(c.perimeter, 50.26548245743669)
+

@@ -1,5 +1,7 @@
 import pytest
-from Triangle import Triangle
+
+
+from OTUS1.pythonProject3.src.Triangle import Triangle
 
 
 def test_Triangle_init():

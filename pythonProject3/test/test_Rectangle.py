@@ -1,5 +1,6 @@
 import pytest
-from src.Rectangle import Rectangle
+
+from OTUS1.pythonProject3.src.Rectangle import Rectangle
 
 
 def test_Rectangle_init():

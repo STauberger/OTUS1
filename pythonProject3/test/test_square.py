@@ -1,7 +1,9 @@
 import unittest
 
-from src.square import square
+import pytest
+import math
 
+from OTUS1.pythonProject3.src.square import square
 
 class TestSquare(unittest.TestCase):
     def setUp(self):
