@@ -1,5 +1,5 @@
 import math
-from pythonProject3.src. figure import Figure
+from pythonProject3.src.figure import Figure
 import pytest
 
 class Circle(Figure):

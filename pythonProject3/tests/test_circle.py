@@ -1,6 +1,6 @@
 import pytest
 
-from pythonProject3.src. Circle import Circle
+from pythonProject3.src.circle import Circle
 
 
 def test_circle_area():

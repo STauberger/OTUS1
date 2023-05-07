@@ -1,4 +1,4 @@
-from pythonProject3.src. figure import Figure
+from pythonProject3.src.figure import Figure
 
 class Rectangle(Figure):
     def __init__(self, side_a, side_b):

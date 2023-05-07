@@ -1,4 +1,4 @@
-from pythonProject3.src. square import Square
+from pythonProject3.src.square import Square
 import pytest
 
 

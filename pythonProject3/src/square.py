@@ -1,4 +1,4 @@
-from pythonProject3.src. rectangle import Rectangle
+from pythonProject3.src.rectangle import Rectangle
 
 
 class Square(Rectangle):
